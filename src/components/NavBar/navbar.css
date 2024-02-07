@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 50px;
+   
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+    
+}
+.logo{
+ position: fixed;
+ left: 20px;
+ width: 100px;
+ top: 10px;
+ background-color: #111;
+ position: fixed;
+
+}
+.join-btn{
+    position: fixed;
+    right: 20px;
+    width: 60px;
+    background-color: #e50914; /* Netflix red color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    top: 10px;
+    
+    position: fixed;
+}
